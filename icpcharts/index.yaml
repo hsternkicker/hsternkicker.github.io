@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  lets-chat:
+  - apiVersion: v1
+    created: 2017-12-06T12:22:54.886058315+01:00
+    description: Basic Demonstration of container deployment
+    digest: 8c8be934770a67de479b9da25c2449577ab54659b27ff22437ade577260fd0ba
+    name: lets-chat
+    urls:
+    - lets-chat-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-06T12:22:54.885604334+01:00
